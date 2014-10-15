@@ -21,7 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-<h2>this is the mix2 of index.jsp</h2>
+<h2>this is the branch3 of index.jsp</h2>
     <form action="search.action">
    		name:<input type = "text" name = "Name"/>  
    		<input type = "submit"/ >
