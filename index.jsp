@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 difjoisjfdsoi%@ page language="java" import="java.util.*" pageEncoding="ISO-8859-1"%>
+=======
+sdf page language="java" import="java.util.*" pageEncoding="ISO-8859-1"%>
+>>>>>>> C4
 <%
 String path = request.getContextPath();
 String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
@@ -21,7 +25,11 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
+<<<<<<< HEAD
 <h2>this is the branch3 of index.jsp</h2>
+=======
+<h2>this is the branch2 of index.jsp</h2>
+>>>>>>> C4
     <form action="search.action">
    		name:<input type = "text" name = "Name"/>  
    		<input type = "submit"/ >
